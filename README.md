@@ -5,7 +5,7 @@
 
 导入css文件 
 
-(<link rel="stylesheet" href="css/index.css">)
+link rel="stylesheet" href="css/index.css"
 
 导入js文件  
 
